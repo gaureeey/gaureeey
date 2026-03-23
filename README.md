@@ -1,3 +1,11 @@
+<h1 align="center">Hi 👋, I'm Gauri Rajesh</h1>
+<h3 align="center">
+🎓 Final-year Electronics and Communication Engineering student<br>
+💻 Aspiring Software Engineer passionate about building real-world applications</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gauri-rajesh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gaurirajeshtpra2005@gmail.com) 
