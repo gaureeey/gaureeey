@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gauri Rajesh</h1>
 <h3 align="center">
-🎓 Final-year Electronics and Communication Engineering student<br>
+
 💻 Aspiring Software Engineer passionate about building real-world applications</h3>
 
 <h3 align="left">Connect with me:</h3>
